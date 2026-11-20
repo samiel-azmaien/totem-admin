@@ -1,0 +1,7 @@
+:HL["/totem-admin/_next/static/chunks/16gx46cw-7rlk.css","style"]
+:HL["/totem-admin/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/totem-admin/_next/static/media/bb45f14d3df03d07-s.p.3l5fegtzyza2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"four-vectors","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"enterprises","h":96,"c":"$Q2"}]]
+0:{"b":"StODVrek7YmocFVOJCGeD","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
