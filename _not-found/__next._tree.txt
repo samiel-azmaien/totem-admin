@@ -1,4 +1,4 @@
-:HL["/totem-admin/_next/static/chunks/16gx46cw-7rlk.css","style"]
+:HL["/totem-admin/_next/static/chunks/3o2t1hhme05sp.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"8k4vk2lWZpofW-lQCQOEI","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"3olr3gQdruOP4a6gB_6wI","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
